@@ -1,0 +1,11 @@
+.idea/
+*.iml
+*.DS_Store
+target/
+*.class
+
+.mtj.tmp/
+
+*.jar
+*.war
+*.ear
